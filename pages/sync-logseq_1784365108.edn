@@ -1,0 +1,732 @@
+{:version 1,
+ :blocks
+ ({:block/id #uuid "a60b4ee0-f075-471d-8c0e-6e8da6e18786",
+   :block/page-name "Contents",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad3b1-ee9c-44fe-9cfd-40594b8cd973",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6a5b4030-59c8-49f4-9e03-325575d1426e",
+   :block/page-name "Jul 18th, 2026",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad5b0-7d64-42c6-accc-00277e6e5aa5",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad5b0-e351-4510-9377-e4f8a6a35a29",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad5b0-a2d2-48a9-aaae-9af02b79a47b",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Create a CD / pull widget (possibly make it 1 by 1, not 1 widget contain 2 function for now)"}
+        {:block/id #uuid "6a5ad5b0-d32c-4112-a9f4-e143bcbc5c63",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Create check resources consumption widget. When resources consumption, make it so possible to safe into file"}],
+       :block/content "To do"}],
+     :block/content "06.37\ncollapsed:: true"}
+    {:block/id #uuid "6a5ad5b0-9ccd-4db2-a807-6bf9e39f7d9f",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad5b0-7f5d-4bd1-9128-9b21e62fcadf",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad5b0-f3c7-4845-8f9c-ba4cb07e98ad",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Making it into a widget is not as efficient as making it into a bash file and run when we need to work with said project."}],
+       :block/content "Notes"}
+      {:block/id #uuid "6a5ad5b0-6222-4f84-86a0-0bf2ed52c872",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad5b0-7920-4fea-bc03-23c24a09b835",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Create a bash file that can lists directory containing git folder. "}],
+       :block/content "Finished"}],
+     :block/content "07.23\ncollapsed:: true"}
+    {:block/id #uuid "6a5ad5b0-bc03-4b45-afe8-00e2d0281ac8",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad5b0-5ddb-4d98-b51b-f593d930b76e",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad5b0-e9bc-4f03-9f0c-1846d62c8f55",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Unified git projects in phone inside documents. For logseq sync, might require workaround but still doable. "}
+        {:block/id #uuid "6a5ad5b0-034c-4539-9167-ba1f122b7463",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content "Will do that after bath."}],
+       :block/content "To do"}],
+     :block/content "07.38\ncollapsed:: true"}
+    {:block/id #uuid "6a5ad5b0-b1c2-440c-99ed-8e2cb2dfd88c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad5b0-7eb6-4f07-bd44-73ea838db838",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad5b0-600b-427b-ac69-a904596c1a90",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Create a file that store recently pushed / pull, so that interactive widget can be achieved. More QoL"}],
+       :block/content "To do"}],
+     :block/content "07.40\ncollapsed:: true"}
+    {:block/id #uuid "6a5ad5b0-6a32-49d9-bea0-67de70ef856c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad5b0-5ce9-4420-8003-05c7b0c4fad8",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad5b0-4564-4cdb-95ea-15ce3a4f8a6a",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Create placeholder for flask, and save directory in termux."}],
+       :block/content "Finished"}],
+     :block/content "08.23"}
+    {:block/id #uuid "6a5ad5b0-371f-4c4d-af3b-ee461b822ce2",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad760-7a06-4d5d-ac23-8dc0cf0a6dba",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ae763-4145-44a5-bcb3-f3f9144766d5",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Creating a projects inside shared Android phone is not possible. Meaning, we will leave logseq folder as is, and will continue work further inside termux environment, not shared storage."}],
+       :block/content "Notes"}],
+     :block/content "08.31"}
+    {:block/id #uuid "6a5b1e02-241e-4af0-a2d5-79926e4fe11b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5b1e02-492f-4465-9079-57a30d3ff760",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5b1e02-7213-45fa-8ebd-01dd07b0d57e",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Implement and run flask until static file, will continue after shore break"}],
+       :block/content "Finished"}],
+     :block/content "09.39"}
+    {:block/id #uuid "6a5ae763-0183-49df-ab03-db7c327e8bc7",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5b1e0d-d0cc-4c96-800e-b53960202494",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5b1e4a-6a01-4ca8-b1a2-9c2cde06fb55",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content "Create git for Flask-Termux"}
+        {:block/id #uuid "6a5b1e23-47da-4270-8a75-72aa87b286ea",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content "Integrate logseq in windows"}],
+       :block/content "To do"}],
+     :block/content "13.32"}
+    {:block/id #uuid "6a5b1e03-7636-4783-8bff-c8c664e64f86",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5b2297-62a5-47bd-bbaa-278d0fde8e3c",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5b3923-3b64-4867-8781-dc7a8b80ae10",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Create separate dynamic push-pull widget for logseq, because it currently located in shared location with Android. Further project might be saved under termux file folder."}],
+       :block/content "Finished"}],
+     :block/content "13.52"}
+    {:block/id #uuid "6a5b3923-5f59-4f7a-84ef-4dd4d5799336",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5b3928-13d4-4543-b3fd-101414beb497",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5b39d4-83e8-4c5a-a507-303360d5f228",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Several brainstorm when utilizing flask, turns out laravel is possible in termux (haven't tried yet), which open full stack capabilities. "}],
+       :block/content "Finished"}
+      {:block/id #uuid "6a5b39d4-41a0-4d46-8c9d-c7cb2b628fd4",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5b39d4-71df-44c5-9c25-ba9916859f23",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "We will create a simple login interfaces, that will display index of information that will be sent via API. The API will be used in the phone."}
+        {:block/id #uuid "6a5b39d4-1757-4a0a-b3b9-9dcef28f0d66",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Maybe consider remove login? Further completion needed."}],
+       :block/content "To do"}],
+     :block/content "15.28"}
+    {:block/id #uuid "6a5b3923-feb5-446c-b45f-4dbfb8a5bfde",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5b39de-b338-4469-830a-865a6a6fa378",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5b4030-8b00-4026-831f-a203e3ba5542",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Apparently, logseq auto sync with laptop is still not possible as of now. Further utilization required."}],
+       :block/content "Notes"}],
+     :block/content "15.31"}
+    {:block/id #uuid "6a5b4030-33d1-4cc8-93b1-f84b31a4e44e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5b4030-846a-4d41-8170-618b0b76f30c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5b4030-14ae-4701-bd47-bb46b543b04b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5b3923-2706-4669-8351-8acbe58fbdb7",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6a5ad3b1-9ce1-4126-bd85-68b40ae57149",
+   :block/page-name "Jul 17th, 2026",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad3b1-d9a5-4139-9b4e-341eaec21d00",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-8a5d-484b-90cf-69c4f9b1df73",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-d349-404f-9ab5-515e7ee2de84",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "We can get so far in life by finishing the loop. "}
+        {:block/id #uuid "6a5ad3b1-0741-4c50-a2dc-f5f842bdee31",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "In life, there is always half-baked conditions in everything, and each time we close the loop, we stand firm until the very end, it will make it so that we have one more step ahead towards accomplishing something beyond our current situation. "}
+        {:block/id #uuid "6a5ad3b1-4231-4233-9478-cc26fc156036",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "So, stay firm and continue closing the loop of activities that we had, whatever it was. "}
+        {:block/id #uuid "6a5ad3b1-8639-446c-934b-bd5ee1136caf",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Whether it was something small or even smaller than that, finish and complete it. "}
+        {:block/id #uuid "6a5ad3b1-5889-490a-9f59-52f219aa0cc7",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "The priority was to complete, and not to perfect, so DO IT EITHER WAY!"}],
+       :block/content "Notes"}],
+     :block/content "17.21"}
+    {:block/id #uuid "6a5ad3b1-48b5-47b8-a8f6-b72560030000",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-2b8c-468e-8f76-589ba5cd8a21",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-29d7-4aec-b973-986fd36d19f4",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Completely connect logseq memo with git, will try pull and push it."}],
+       :block/content "Finished"}
+      {:block/id #uuid "6a5ad3b1-da07-4bb1-9760-79d1298e5f94",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-a652-452e-b422-b53419f19f0d",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Make a log, in the shortcut, so that each time changes happen it is being stored? "}
+        {:block/id #uuid "6a5ad3b1-d49a-4bc3-9aa6-6a719fda5938",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "I think number 1 will make the directory bloated, will not continue and let it be because git already handle the changes."}],
+       :block/content "To do"}],
+     :block/content "18.35"}
+    {:block/id #uuid "6a5ad3b1-7e4c-4688-8679-7c75c8e9dc7e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-d5b1-4188-b291-eb9286e3d89d",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-0d1b-401f-bbd9-58e439a9c64c",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Completely had a robust workflow for logseq synchronization from termux-github, and already utilize shortcut for pull-push in termux widget. Each changes made in logseq can easily be saved and pushed into github, so that it synchronized easily for each system. "}],
+       :block/content "Finished"}],
+     :block/content "18.38"}
+    {:block/id #uuid "6a5ad3b1-f629-480c-ac0a-02851522f5ac",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-532e-44a0-a41e-1dfdba5ba7e6",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-b2d9-4b4d-93ad-7e1bf01bc2cf",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Current situation make is so that this small step can make us move onward. "}
+        {:block/id #uuid "6a5ad3b1-1010-4e03-9a4a-5d66108ac100",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Utilization of logseq, which have complex and complicated data storing, is one of the main point of having synced knowledge-transfer. With this, further progress can be tracked, and we won't be easily lost with ourselves. Hell yeah. "}
+        {:block/id #uuid "6a5ad3b1-e485-4167-bcad-ed59f06cb351",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Key things to note is that, to connect, utilize ssh from each device."}],
+       :block/content "Notes"}],
+     :block/content "18.40"}
+    {:block/id #uuid "6a5ad3b1-d4c5-4dc2-a141-f0162d148e28",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-aeb0-49d1-8af5-d00720f3ad51",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-7941-46ad-a9c5-d3b011f5e7b8",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Will try and make interactive commit message when git push."}],
+       :block/content "To do"}],
+     :block/content "19.38"}
+    {:block/id #uuid "6a5ad3b1-8c59-4395-8467-597c369d19c1",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-1e6b-4275-9a02-c8f99cbfc249",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-18d4-4144-8bd2-16bf6fba98e7",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Tried the first option, where it runs with widget, it works."}
+        {:block/id #uuid "6a5ad3b1-c140-421c-9558-c78060373fb7",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Modified so that user can add commit message, it works, and add placeholder if user does not input message. If user input message, placeholder will not be included. "}
+        {:block/id #uuid "6a5ad3b1-0105-4bfe-918b-ec03b242eaad",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Make it so that placeholder was included regardless user input / not. If user input, placeholder positions first, then user input message."}],
+       :block/content "Finished"}],
+     :block/content "19.46"}
+    {:block/id #uuid "6a5ad3b1-e646-4191-9f9b-34ef637f0535",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-c857-43b1-aea9-a07113e76f75",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-662f-4e39-bca6-fbdd4d2ffc71",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "This current situation improve possibilities further. Meaning, we can propose QoL where each time we make changes in termux, we can push into git. By utilizing dynamicity of widgets, it's possible. "}],
+       :block/content "Notes"}],
+     :block/content "19.50"}
+    {:block/id #uuid "6a5ad3b1-a5b3-40f9-9d30-00c7120836d8",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-e974-4e50-972f-98861e9a4c08",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b1-4914-41ad-9caa-d6e88fda8327",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "The dynamic works. Meaning, user can input the name of said folder, and await for the widgets finish iterating pull and push of that into respected github."}],
+       :block/content "Finished"}],
+     :block/content "20.02"}
+    {:block/id #uuid "6a5ad3b1-dd2d-4f61-9ddf-b158893044e3",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b0-62c8-4b59-81c2-85b9cc1e251b",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b0-f9eb-4b54-b3a0-1d0ccf560567",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Connecting logseq for synchronization via github"}
+        {:block/id #uuid "6a5ad3b0-cdda-4f2f-b539-808affa879fe",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Working dynamic pull-push from termux when working with changes in github, by providing the folder name that is saved under Documents."}],
+       :block/content "Finished"}],
+     :block/content "20.07"}
+    {:block/id #uuid "6a5ad3b0-b0ae-4c2e-aff5-6eed3a9f5261",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b0-cf90-4150-9ccc-587802e98dff",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "6a5ad3b0-5779-4c75-8f3e-4bb9a9ac06a7",
+         :block/properties {:logseq.order-list-type "number"},
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "More QoL utilization where user just need to type the number of the git repo from lists of shown detected repo directory."}],
+       :block/content "Finished"}],
+     :block/content "20.13"}
+    {:block/id #uuid "6a5ad3b0-ef24-4861-96c6-c2c5b1e3d8c5",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b0-7765-44d8-9cd0-cdc5ec660ffd",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6a5ad3b1-12d3-49c5-ba64-60767b7ac483",
+   :block/page-name "Jul 16th, 2026",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad3b1-8c74-476e-b796-376402fb46d3",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-8fa2-4a93-82a8-843ce5910177",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "6a5ad3b1-19f1-4047-a4b6-caef5e76e4ac",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children [],
+       :block/content
+       "Apparently it is possible to check information with termux and save it somewhere else. Dully noted."}],
+     :block/content "13.21"})}
+  {:block/id #uuid "6a5ad3b1-8f8a-4753-b99e-e6cf7e7c9f05",
+   :block/page-name "Jul 12th, 2026",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad3b1-b608-4639-912c-62280ae67887",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Utilization of vps is too much when unemployed and lack of savings."}
+    {:block/id #uuid "6a5ad3b1-6823-49ad-b203-9ada2f3f4eed",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Utilization of local pc is good, but ram is consideration."}
+    {:block/id #uuid "6a5ad3b1-395a-4037-a9ea-838d75c60b1e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Utilization of virtualBox might be over the top, and WSL is the winning strategy."})}
+  {:block/id #uuid "6a5ad3b1-dc18-4db9-9ab1-4d81d82c25e7",
+   :block/page-name "Jul 10th, 2026",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad3b1-5e5e-4710-9349-42147b4a11f4",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "We are opt to compile the source in the pc, transfer into Debian termux later via ssh."}
+    {:block/id #uuid "6a5ad3b1-3b82-485d-a7c1-be70b4795799",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-fca5-4ad6-b028-4c9d33c8592c",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "Expected decision:"}
+    {:block/id #uuid "6a5ad3b1-852e-43d7-b04f-c2d26f2a7c4f",
+     :block/properties {:logseq.order-list-type "number"},
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://app.respondent.io/r/becomeparticipant-be485b86b81d"}
+    {:block/id #uuid "6a5ad3b1-58c2-4556-b242-48d83638abdd",
+     :block/properties {:logseq.order-list-type "number"},
+     :block/format :markdown,
+     :block/children [],
+     :block/content "https://join.test.io/xZKMEEMVL1QC"}
+    {:block/id #uuid "6a5ad3b1-460a-4818-ac6d-2dab5b9228a7",
+     :block/properties {:logseq.order-list-type "number"},
+     :block/format :markdown,
+     :block/children [],
+     :block/content "https://t.mercor.com/Yogpy"}
+    {:block/id #uuid "6a5ad3b1-d136-47ef-b3af-7057b0967cc6",
+     :block/properties {:logseq.order-list-type "number"},
+     :block/format :markdown,
+     :block/children [],
+     :block/content "https://www.freelancer.com/"}
+    {:block/id #uuid "6a5ad3b1-138e-4011-9d8a-f22318d677ed",
+     :block/properties {:logseq.order-list-type "number"},
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "https://www.fiverr.com/start_selling?source=foote"}
+    {:block/id #uuid "6a5ad3b1-adbe-4d3e-9d2d-90cfd891dc07",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-0696-4aa1-ab8d-022f67564228",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-a1b3-4710-871c-46930880d5d5",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "6a5ad3b1-2038-4402-9e92-2ee7d24375d7",
+   :block/page-name "Jul 9th, 2026",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "6a5ad3b1-e2a6-4807-a6c5-046aaef39730",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "First logseq journal"}
+    {:block/id #uuid "6a5ad3b1-d735-4aa5-b4af-e5aaffaa2b08",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-6ca5-4114-8849-2d5335a38dc6",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Is it possible to create a website that required authorization to connect, and further authentication to connect. After verification has been passed, the website will provide Filezila UI like, that enable ssh file share from the termux server?"}
+    {:block/id #uuid "6a5ad3b1-ab1d-477e-acd6-c12e26665a0f",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-c1d5-4e77-abf3-79c929487b15",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-4c5b-4245-acb9-2b123df38692",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "6a5ad3b1-3e37-4a0b-8eb0-ff3c7e00838b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Yes, it is absolutely possible to build a website with this exact functionality. You're describing a secure, web-based SFTP client that acts as a gateway to a Termux server."}
+    {:block/id #uuid "6a5ad3b1-9504-4e91-bd89-389778f0bf32",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Here’s a breakdown of how this can be achieved, from the authorization layer to the FileZilla-like interface."}
+    {:block/id #uuid "6a5ad3b1-d679-487b-add3-eb6421151c93",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "🛡️ Step 1: Authorization & Authentication (The Security Layer)"}
+    {:block/id #uuid "6a5ad3b1-3092-4b1c-9d03-0981b5da9275",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "Your website will need two layers of security, which can be implemented in a few ways:"}
+    {:block/id #uuid "6a5ad3b1-7eea-4c1f-8a7b-826915359a91",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "· Application-Level Authentication: The website itself will require users to log in. This can be as simple as a basic username and password (HTTP Basic Auth) or a more robust system with user management. Many web-based file managers have this built-in.\n· Server-Level Authentication (SSH): After logging into the website, the application will use the provided credentials to establish a secure SSH connection to your Termux server. This is typically done using the SFTP (SSH File Transfer Protocol).\n· Alternative: One-Time Tokens: For enhanced security, you could generate time-sensitive tokens for each session, providing an extra layer of verification."}
+    {:block/id #uuid "6a5ad3b1-73d9-4771-8a17-aae9132f3b4b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "💻 Step 2: The FileZilla-like Interface (The User Experience)"}
+    {:block/id #uuid "6a5ad3b1-3815-4c0f-aa7a-1e261fde5f66",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "To create a dual-pane file manager experience in a web browser, you can use several ready-made solutions:"}
+    {:block/id #uuid "6a5ad3b1-42dd-49d2-ad77-8f173e258b90",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "· FileZilla in a Container (Docker): You can run a Docker container that hosts a full FileZilla client accessible via a web browser. This can be set up with its own web GUI authentication.\n· Cloud Commander: An open-source, dual-panel web file manager that runs on Node.js. It includes optional authorization, works on Android via Termux, and can manage files.\n· Other Web-Based File Managers: Several open-source projects are designed for this purpose:\n· Filebrowser: A web-based file manager that can be configured with basic authentication.\n· Filex-Termux: A lightweight web-based file explorer specifically for Termux.\n· GAGU: A web-based file management system that works on Android/Termux."}
+    {:block/id #uuid "6a5ad3b1-ee6a-4fac-97e1-01562f26bd3a",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "🔌 Step 3: Connecting to the Termux Server (The Backend)"}
+    {:block/id #uuid "6a5ad3b1-b5fc-4152-af98-dbc985380cb0",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "For your website to connect to the Termux server via SSH/SFTP, the backend (e.g., a Node.js server) will need to use an SSH/SFTP library. It will use the credentials from Step 1 to establish a secure connection and perform file operations."}
+    {:block/id #uuid "6a5ad3b1-56e0-4bd5-bec7-81bfd131bcd5",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "📝 Summary & Recommendation"}
+    {:block/id #uuid "6a5ad3b1-38f7-44e2-8dea-7921d50181c2",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "A practical way to achieve this is by using Cloud Commander:"}
+    {:block/id #uuid "6a5ad3b1-42de-4ae4-8054-ec31c861962d",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "1. Install Termux on your Android device and set up an SSH server.\n2. Install Node.js and Cloud Commander on your Termux environment.\n3. Enable authorization in Cloud Commander to create your first security layer.\n4. Configure Cloud Commander to connect to your Termux server's SSH/SFTP service, which acts as the second authentication layer."}
+    {:block/id #uuid "6a5ad3b1-fd19-4427-8a5b-2b952ce7710e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "This approach gives you a web-based, dual-pane file manager (Step 2) with built-in security (Step 1) that can connect to your Termux server (Step 3)."}
+    {:block/id #uuid "6a5ad3b1-be80-4e71-8613-355a0fe3975e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content "⚠️ Important Security Considerations"}
+    {:block/id #uuid "6a5ad3b1-4e43-42ae-9140-e56c495652fa",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content
+     "· Never expose a file manager without any authentication or sandboxing to the public internet.\n· Always use strong, unique passwords.\n· For the highest security, consider using SSH key-based authentication instead of passwords."})})}
